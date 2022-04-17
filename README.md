@@ -9,5 +9,4 @@ ZOぞ | Global list of clans traitors
   { "discord" : "USERNAME", "roblox" : "USERNAME", "clan" : "NAME", "emperor" : "NAME" }
 ]
 ```
-
 No comma at the end of the last line.
