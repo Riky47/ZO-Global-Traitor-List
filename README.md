@@ -2,7 +2,7 @@
 ZOぞ | Global list of clans traitors
 
 ## Format:
-[\n
-  { "discord" : "USERNAME", "roblox" : "USERNAME", "clan" : "NAME", "emperor" : "NAME" },\n
-  { "discord" : "USERNAME", "roblox" : "USERNAME", "clan" : "NAME", "emperor" : "NAME" }\n
-]
+##### [
+#####  { "discord" : "USERNAME", "roblox" : "USERNAME", "clan" : "NAME", "emperor" : "NAME" },
+#####  { "discord" : "USERNAME", "roblox" : "USERNAME", "clan" : "NAME", "emperor" : "NAME" }
+##### ]
