@@ -10,4 +10,4 @@ ZOぞ | Global list of clans traitors
 ]
 ```
 
-! No comma at the end of the last line !
+[!] No comma at the end of the last line.
