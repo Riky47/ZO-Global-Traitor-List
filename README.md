@@ -5,6 +5,7 @@ ZOぞ | Global list of clans traitors
 ```json
 [
   { "discord" : "USERNAME", "roblox" : "USERNAME", "clan" : "NAME", "emperor" : "NAME" },
+  ...
   { "discord" : "USERNAME", "roblox" : "USERNAME", "clan" : "NAME", "emperor" : "NAME" }
 ]
 ```
